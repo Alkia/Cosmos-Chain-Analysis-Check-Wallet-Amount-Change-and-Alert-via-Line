@@ -1,4 +1,4 @@
-# Cosmos-Chain-Analysis-Check-Wallet-Amount-Change-and-Alert-via-Line
+# Cosmos Chain Analysis | Part 1 How to check a allet & alert via Line
 Check Cosmos (ATOM) Wallet Amount Change and Alert via Line | Cosmos Chain Analysis 
 
 
