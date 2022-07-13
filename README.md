@@ -7,3 +7,6 @@ the script check_Atom_Wallet_Changes.py checks every second a change in the spec
 
 ## Jupyter Notebook 
 The notebook Send_LINE_message_with_Python.mht explains the process.
+
+## Next step
+Looking forward making the action fully automated
